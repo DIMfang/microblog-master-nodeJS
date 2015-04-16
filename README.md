@@ -1,11 +1,11 @@
 microblog
 =========
 
-《nodejs开发指南》微博实例express4.x版
 
-> * 运行环境：  
+
+> * operating environment：  
         node >= v0.10.28  
         express >= 4.2.0
-> * 运行命令   
+> * operating directive   
         npm install  
         node app.js
